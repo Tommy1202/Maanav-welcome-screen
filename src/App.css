@@ -1,0 +1,40 @@
+*
+{
+  overflow: hidden;
+}
+.signup
+{
+  width: 90%;
+  margin-left: 5%;
+  height: 90%;
+  margin-top: 15%;
+  background-position: fixed;
+}
+h2
+{
+  text-align: center;
+  margin-right: 20%;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h4
+{
+  text-align: center;
+  margin-right: 20%;
+  color: rgb(177, 175, 175);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+.button
+{
+  width: 100%;
+  color: white;
+  background-color: black;
+}
+.image
+{
+  width: 97%;
+  height: 90%;
+  background-position: fixed;
+
+}
+
